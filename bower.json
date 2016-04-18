@@ -1,0 +1,19 @@
+{
+  "name": "ng-tags-input",
+  "homepage": "https://github.com/vanhonit/ngTagsInput",
+  "version": "3.0.0",
+  "_release": "3.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.0",
+    "commit": "7ceddce1ae05d894e3af2fbe54e394a41c8372f2"
+  },
+  "main": [
+    "ng-tags-input.bootstrap.css",
+    "ng-tags-input.css",
+    "ng-tags-input.js"
+  ],
+  "_source": "https://github.com/vanhonit/ngTagsInput.git",
+  "_target": "3.0.x",
+  "_originalSource": "https://github.com/vanhonit/ngTagsInput.git"
+}
